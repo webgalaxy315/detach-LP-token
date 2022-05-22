@@ -1,0 +1,23 @@
+{
+  "name": "detach-lp-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhnguyennguyen/detach-LP-token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhnguyennguyen/detach-LP-token/issues"
+  },
+  "homepage": "https://github.com/thanhnguyennguyen/detach-LP-token#readme",
+  "dependencies": {
+    "bignumber.js": "^9.0.1",
+    "web3": "^1.3.1"
+  }
+}
